@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>FF839AF3-E616-44A7-860D-DAF8CC4B07A2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login" transform="translate(-539.000000, -283.000000)">
+            <g id="log-in" transform="translate(515.000000, 152.000000)">
+                <g id="user-name" transform="translate(20.000000, 127.000000)">
+                    <g id="heading">
+                        <g id="ic_perm_identity">
+                            <polygon id="Bounds" points="0 0 24 0 24 24 0 24"></polygon>
+                            <path d="M12,4 C9.79,4 8,5.79 8,8 C8,10.21 9.79,12 12,12 C14.21,12 16,10.21 16,8 C16,5.79 14.21,4 12,4 L12,4 Z M12,13 C9.33,13 4,14.34 4,17 L4,20 L20,20 L20,17 C20,14.34 14.67,13 12,13 L12,13 Z" id="Icon" fill="#4C8EDE"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

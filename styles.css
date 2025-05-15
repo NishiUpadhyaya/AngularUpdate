@@ -1,0 +1,285 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.css";
+
+table td {
+    border-top: none !important;
+}
+
+
+.screen-bg {
+	/*min-height:100vh;*/
+	min-height:100%;
+	/*height: auto;*/
+    background-color: #F9F9F9
+}
+
+.footer-bg {
+	/*min-height:100vh;*/
+	min-height:100%;
+	/*height: auto;*/
+    background-color: #c9c9c9
+}
+.pagetitle {
+	height: 44px;
+}
+.pagetitletext {	
+    height: 18px;	
+    /*width: 60px;	*/
+    color: #5B5B5B;	
+    font-family: Montserrat;	
+    font-size: 22px;	
+    font-weight: bold;	
+    line-height: 18px;
+    }
+
+.section-card {	
+	padding: 20px 0 0 0
+}
+
+.section-header {	
+    height: 44px;	
+    /*width: 1150px;	*/
+    opacity: 0.7;	
+    border-radius: 3px 3px 0 0;	
+    background-color: #EBEBEB;	
+    box-shadow: 0 8px 19px 0 rgba(0,0,0,0.06);
+}
+
+.section-head-text {	
+    height: 19px;	
+    /*width: 116px;	*/
+    height: 44px;
+    color: #5B5B5B;	
+    font-family: Montserrat;	
+    font-size: 15px;	
+    font-weight: bold;
+    line-height: 19px;
+} 
+
+.section-head-text-mod {	
+    height: 19px;	
+    /*width: 116px;	*/
+    height: 44px;
+    color: #111111;	
+    font-family: Montserrat;	
+    font-size: 15px;	
+    font-weight: bold;
+    line-height: 19px;
+} 
+.section-body {	
+    /*height: 228px;	
+    width: 1150px;	*/
+    padding: 25px 25px 25px 25px;
+    border-radius: 2px;	
+    background-color: #FFFFFF;	
+    box-shadow: 0 8px 19px 0 rgba(0,0,0,0.06);
+}   
+
+.section-input {
+	/*height: 36px;	
+    width: 176px;	*/
+    border: 1px solid #E1E1E1;	
+    border-radius: 2px;	
+    background-color: #F7F7F7;    
+}
+
+.section-input-mod {
+	/*height: 36px;	
+    width: 176px;	*/
+    border: 1px solid #a7a7a7;	
+    border-radius: 2px;	
+    background-color: #E1E1E1 ;    
+}
+
+/*.rectangle-3 {	height: 45px;	width: 370px;	
+    border: 1px solid #E1E1E1;	
+    border-radius: 2px;	background-color: #F2F2F2;}*/
+
+.section-label {	
+    height: 15px;	
+    /*width: 79px;	*/
+    opacity: 0.71;	
+    color: #4C4C4C;	
+    font-family: Montserrat;	
+    font-size: 12px;	
+    font-weight: 500;	
+    line-height: 15px;
+}
+
+.section-label-mod {	
+    height: 15px;	
+    /*width: 79px;	*/
+    opacity: 0.71;	
+    color: #111111;	
+    font-family: Montserrat;	
+    font-size: 12px;	
+    font-weight: 500;	
+    line-height: 15px;
+}
+
+.form-part-header {
+	overflow: hidden;
+	padding: 0 10px 0 10px;
+	background: lightskyblue;
+	-moz-border-radius: 1px 1px 0 0; -webkit-border-radius: 1px 1px 0 0; border-radius: 1px 1px 0 0;
+	text-align: left;
+	/*outline: 1px solid black;*/
+}
+
+/* List page style */
+
+.list-page-bg {	
+    height: 100.98%;	
+    width: 100%;	
+    background-color: #F9F9F9;
+    }
+
+.list-page-title {
+	/*height: 18px;
+	width: 199px;*/
+	color: #5B5B5B;
+	font-family: Montserrat;
+	font-size: 22px;
+	font-weight: bold;
+	line-height: 18px;
+}
+
+.add-button-bg {
+	/*height: 45px;
+	width: 273px;*/
+	border-radius: 2px;
+	background-color: #5CB85C;
+	box-shadow: 0 3px 7px 0 rgba(100,185,76,0.35);
+}
+
+.add-button {
+	/*height: 45px;*/
+	border-radius: 2px;
+	margin: 0,0,0,0;
+	width: 100%;
+}
+
+.add-button-txt {
+	color: #FFFFFF;
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 19px;
+}
+
+.separation-line {
+	box-sizing: border-box; height: 2px; border: 1px solid #979797; opacity: 0.2;
+}
+
+
+.list-input {
+	opacity: 0.28; 	border-radius: 2px; background-color: #D8D8D8;
+}
+
+.search-txt {
+	opacity: 0.7; color: #3B3B3B; font-family: Montserrat; font-size: 14px; line-height: 17px;
+}
+
+.search-txt-mod {
+	opacity: 0.7; color: #111111; font-family: Montserrat; font-size: 14px; line-height: 17px;
+}
+
+.grid-view-txt {
+	color: #797979;
+	font-family: Montserrat;
+	font-size: 10px;
+	font-weight: bold;
+	line-height: 13px;
+	text-align: right;
+}
+
+.card-id {
+	color: #4C8EDE; font-family: Montserrat; font-size: 15px; line-height: 19px; text-align: left;
+}
+
+.card-text {
+	height: 30px; width: 51px; color: #797979; font-family: Montserrat; font-size: 15px; font-weight: bold; line-height: 19px; 
+}
+
+.card-text-type {
+	height: 40px;
+	width: 56px;
+	/*color: #797979;*/
+	color: #292929;
+	font-family: Montserrat;
+	font-size: 12px;
+	line-height: 15px;
+	text-align: left;
+	flex: 1;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.card-line {
+	height: 1px;
+	/*width: 349px;*/
+	transform: scaleX(-1);
+}
+
+.icon-text {
+	color: #797979; font-family: Montserrat; font-size: 15px; line-height: 19px; 
+}
+.red-icon {
+  color: red;
+}
+
+.blue-icon {
+	color: #4C8EDE;
+}
+
+.justify-content-center {
+    display: flex !important;
+    justify-content: center !important;    
+}
+
+input.apple-switch {
+ position: relative;
+ appearance: none; outline: none;
+ width: 50px; height: 30px;
+ background-color: #ffffff; border: 1px solid #D9DADC;
+ border-radius: 50px; box-shadow: inset -20px 0 0 0 #ffffff;
+ transition-duration: 200ms;
+}
+
+input.apple-switch:after {
+ content: ""; 
+ position: absolute;
+ top: 1px; left: 1px;
+ width: 26px; height: 26px;
+ background-color: transparent;
+ border-radius: 50%; box-shadow: 2px 4px 6px rgba(0,0,0,0.2);
+}
+
+input.apple-switch:checked {
+ border-color: #4ED164;
+ box-shadow: inset 20px 0 0 0 #4ED164;
+}
+
+input.apple-switch:checked:after {
+ left: 20px;
+ box-shadow: -2px 4px 3px rgba(0,0,0,0.05);
+}
+
+.input-counter {
+	text-align: right;
+	color: #D9D9D9;
+	font-family: Montserrat;
+	font-size: 12px;	
+}
+
+.ng-valid[required], .ng-valid.required  {
+	background-color: #bbffee;
+}
+
+.ng-invalid:not(form)  {
+	background-color: #ffeeff;
+    /*border-color: #ffddff;*/
+}
